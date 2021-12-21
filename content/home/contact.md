@@ -20,8 +20,6 @@ content:
   form:
     provider: netlify
     netlify:
-      id: mqknkvpz
-    netlify:
       # Enable CAPTCHA challenge to reduce spam?
       captcha: true
   
